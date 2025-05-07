@@ -22,7 +22,6 @@ The goal of this lab was to:
 ├── badfile                # Payload input to exploit stack.c
 ├── call_shellcode.c       # Test for launching shell from injected code
 ├── dash_shell_test.c      # Code for testing dash shell privilege drop
-├── exploit.py             # Python version of the exploit
 ├── Buffer_Overflow_Report.pdf # My detailed write-up documenting the exploitation steps
 └── README.md              # You're here!
 ```
