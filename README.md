@@ -1,6 +1,3 @@
-# buffer-overflow
-Used SEED Labs to bypass ASLR and craft exploits targeting vulnerable binaries in a sandboxed lab.
-
 # Buffer Overflow Exploitation - SEED Labs
 
 This project is a hands-on exploration of **buffer overflow vulnerabilities**, based on the SEED Labs' *Buffer Overflow Vulnerability Lab* designed by Wenliang Du. It walks through exploiting a vulnerable C program to gain unauthorized root access, bypassing modern countermeasures like StackGuard, non-executable stacks, and address space layout randomization (ASLR).
